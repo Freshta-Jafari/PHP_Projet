@@ -20,7 +20,7 @@ if (isset($_GET['delete'])){
     </head>
 <body>
 
-   <h1>Votre Informations</h1> 
+   <h1>Informations : </h1> 
 
 <table>
     <thead>
